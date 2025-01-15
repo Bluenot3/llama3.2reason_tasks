@@ -1,0 +1,17 @@
+# Virtual environments
+venv/
+ENV/
+.venv/
+
+# System files
+.DS_Store
+
+# PyCharm / IntelliJ
+.idea/
+
+# Visual Studio Code
+.vscode/
+
+# Large model weights
+*.bin
+*.ckpt
